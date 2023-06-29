@@ -1,5 +1,11 @@
 import java.util.List;
-
+/**
+ *  Java Coffee Co Ordering and Tracking
+ *  Coffee Interface: contains functionality of all coffees
+ *  CS160-1001
+ *  6/28/2023
+ *  @author Taya Medina
+ */
 public interface Coffee {
 
     /**
